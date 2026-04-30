@@ -18,12 +18,6 @@ const Navbar = () => {
         
         {/* Logo */}
         <div className="flex gap-2 items-center">
-          <Image
-            src={"/logo.png"}
-            alt="logo"
-            width={30}
-            height={30}
-          />
           <h3 className="font-black text-lg">SunCart.</h3>
         </div>
 

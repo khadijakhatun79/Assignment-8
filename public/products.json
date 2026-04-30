@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Perfect for sunny days",
+    "image": "https://i.ibb.co/3yWQ8kP/sunglass.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Beach Hat",
+    "brand": "SunnyWear",
+    "price": 10,
+    "rating": 4.5,
+    "stock": 8,
+    "description": "Stay cool in summer",
+    "image": "https://i.ibb.co/sample2.png",
+    "category": "Fashion"
+  },
+  {
+    "id": 3,
+    "name": "Summer T-Shirt",
+    "brand": "CoolFit",
+    "price": 20,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Lightweight cotton",
+    "image": "https://i.ibb.co/sample3.png",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "Sunscreen SPF50",
+    "brand": "SkinCare",
+    "price": 12,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Protect your skin",
+    "image": "https://i.ibb.co/sample4.png",
+    "category": "Skincare"
+  },
+  {
+    "id": 5,
+    "name": "Flip Flops",
+    "brand": "WalkEasy",
+    "price": 8,
+    "rating": 4.3,
+    "stock": 20,
+    "description": "Comfortable wear",
+    "image": "https://i.ibb.co/sample5.png",
+    "category": "Footwear"
+  },
+  {
+    "id": 6,
+    "name": "Beach Bag",
+    "brand": "CarryAll",
+    "price": 18,
+    "rating": 4.4,
+    "stock": 10,
+    "description": "Carry all essentials",
+    "image": "https://i.ibb.co/sample6.png",
+    "category": "Accessories"
+  }
+]
