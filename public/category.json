@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Accessories",
+    "slug": "accessories"
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "slug": "clothing"
+  },
+  {
+    "id": 3,
+    "name": "Skincare",
+    "slug": "skincare"
+  },
+  {
+    "id": 4,
+    "name": "Footwear",
+    "slug": "footwear"
+  },
+  {
+    "id": 5,
+    "name": "Beach",
+    "slug": "beach"
+  },
+  {
+    "id": 6,
+    "name": "Summer Essentials",
+    "slug": "summer-essentials"
+  }
+]
