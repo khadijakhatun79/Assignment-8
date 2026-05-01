@@ -14,7 +14,7 @@ const AllProductPage = async ({ searchParams }) => {
     : products;
 
   return (
-    <div className="max-w-7xl mx-auto px-4">
+    <div className="container mx-auto px-4">
 
       <h1 className="text-2xl font-bold my-5">All Products</h1>
 
