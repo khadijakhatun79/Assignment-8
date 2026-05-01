@@ -27,7 +27,7 @@ const PhotoDetailsPage = async ({params}) => {
         {/* DETAILS SECTION */}
         <div className="space-y-4">
           
-          <span className="text-sm bg-orange-100 text-orange-600 px-3 py-1 rounded-full">
+          <span className="text-sm bg-orange-100 text-orange-600 px-3 py-1 mb-4 inline-block rounded-full">
             {product.category}
           </span>
 
