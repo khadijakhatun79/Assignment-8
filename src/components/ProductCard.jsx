@@ -55,7 +55,7 @@ const ProductCard = ({ product }) => {
 
       {/* Button */}
       <div className="px-4 pb-4"> 
-        <Link href={`/products/${product.id}`}>
+        <Link href={`/all-product/${product.id}`}>
           <Button className="w-full bg-gradient-to-r from-orange-500 to-pink-500 text-white font-medium">
             View Details
           </Button>
