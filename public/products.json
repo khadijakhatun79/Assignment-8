@@ -6,8 +6,8 @@
     "price": 15,
     "rating": 4.7,
     "stock": 10,
-    "description": "Perfect for sunny days",
-    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+    "description": "Premium UV protection sunglasses designed to block harmful sun rays while keeping your style modern and sharp. Perfect for beach trips, travel, and daily summer use. Lightweight frame ensures long-time comfort.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop",
     "category": "Accessories"
   },
   {
@@ -17,8 +17,8 @@
     "price": 10,
     "rating": 4.5,
     "stock": 8,
-    "description": "Stay cool in summer",
-    "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38",
+    "description": "Stylish beach hat made with breathable fabric to protect you from harsh sunlight. Ideal for vacations, beach walks, and outdoor summer activities. Keeps you cool and fashionable at the same time.",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop",
     "category": "Accessories"
   },
   {
@@ -28,8 +28,8 @@
     "price": 20,
     "rating": 4.6,
     "stock": 12,
-    "description": "Lightweight cotton",
-    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+    "description": "Soft and breathable cotton t-shirt designed for hot summer days. Provides maximum comfort and airflow while maintaining a trendy casual look. Perfect for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800&auto=format&fit=crop",
     "category": "Clothing"
   },
   {
@@ -39,8 +39,8 @@
     "price": 12,
     "rating": 4.8,
     "stock": 15,
-    "description": "Protect your skin from UV rays",
-    "image": "https://images.unsplash.com/photo-1596464716127-f2a82984de30",
+    "description": "High protection SPF50 sunscreen that shields your skin from harmful UVA and UVB rays. Lightweight, non-greasy formula that keeps your skin safe, smooth, and hydrated during extreme summer heat.",
+    "image": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=800&auto=format&fit=crop",
     "category": "Skincare"
   },
   {
@@ -50,8 +50,8 @@
     "price": 8,
     "rating": 4.3,
     "stock": 20,
-    "description": "Comfortable summer footwear",
-    "image": "https://images.unsplash.com/photo-1593032465175-481ac7f401a0",
+    "description": "Comfortable and durable flip flops designed for daily summer use. Soft sole provides easy walking experience on beaches, streets, and indoor surfaces. Lightweight and water-resistant design.",
+    "image": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba8?w=800&auto=format&fit=crop",
     "category": "Footwear"
   },
   {
@@ -61,8 +61,8 @@
     "price": 18,
     "rating": 4.4,
     "stock": 10,
-    "description": "Carry all your essentials",
-    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad",
+    "description": "Spacious and stylish beach bag designed to carry all your summer essentials including towels, sunscreen, sunglasses, and more. Durable material with strong handles for heavy use.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=800&auto=format&fit=crop",
     "category": "Accessories"
   },
   {
@@ -72,8 +72,8 @@
     "price": 14,
     "rating": 4.5,
     "stock": 18,
-    "description": "Comfortable breathable summer shorts",
-    "image": "https://images.unsplash.com/photo-1593030103066-0093718efeb9",
+    "description": "Lightweight and breathable summer shorts made for maximum comfort in hot weather. Flexible fabric allows easy movement, making it perfect for outdoor activities and casual wear.",
+    "image": "https://images.unsplash.com/photo-1593030103066-0093718efeb9?w=800&auto=format&fit=crop",
     "category": "Clothing"
   },
   {
@@ -83,8 +83,8 @@
     "price": 11,
     "rating": 4.6,
     "stock": 9,
-    "description": "Classic straw hat for beach days",
-    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+    "description": "Classic straw beach hat with wide brim for full sun protection. Perfect for vacations, beach photography, and summer fashion styling. Lightweight and breathable design.",
+    "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=800&auto=format&fit=crop",
     "category": "Accessories"
   },
   {
@@ -94,8 +94,8 @@
     "price": 9,
     "rating": 4.7,
     "stock": 14,
-    "description": "Cooling gel for sunburn relief",
-    "image": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba8",
+    "description": "Natural aloe vera gel that soothes sunburn, hydrates skin, and provides cooling relief during hot summer days. Gentle formula suitable for all skin types.",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&auto=format&fit=crop",
     "category": "Skincare"
   },
   {
@@ -105,8 +105,8 @@
     "price": 16,
     "rating": 4.4,
     "stock": 11,
-    "description": "Lightweight sandals for everyday use",
-    "image": "https://images.unsplash.com/photo-1608256246200-53e8b4f2c2d1",
+    "description": "Comfortable and stylish sandals designed for everyday summer use. Soft cushioning supports long walks while keeping your feet cool and relaxed.",
+    "image": "https://images.unsplash.com/photo-1608256246200-53e8b4f2c2d1?w=800&auto=format&fit=crop",
     "category": "Footwear"
   },
   {
@@ -116,8 +116,8 @@
     "price": 13,
     "rating": 4.5,
     "stock": 25,
-    "description": "Stay hydrated during hot summer days",
-    "image": "https://images.unsplash.com/photo-1526401485004-2aa7e0b7f0e9",
+    "description": "Insulated cooling water bottle designed to keep your drinks cold for hours. Perfect for gym, travel, and hot summer days to maintain hydration and freshness.",
+    "image": "https://images.unsplash.com/photo-1526401485004-2aa7e0b7f0e9?w=800&auto=format&fit=crop",
     "category": "Summer Essentials"
   },
   {
@@ -127,8 +127,8 @@
     "price": 17,
     "rating": 4.6,
     "stock": 13,
-    "description": "Soft and absorbent beach towel",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Ultra-soft and highly absorbent beach towel perfect for swimming, sunbathing, and beach outings. Quick-dry material ensures comfort and convenience.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop",
     "category": "Beach"
   }
 ]
