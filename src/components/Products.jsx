@@ -6,7 +6,7 @@ const Products = async () => {
   });
 
   const products = await res.json();
-  const topProducts = products.slice(0, 6);
+  const topProducts = products.slice(0, 3);
 
   return (
     <div className="max-w-7xl mx-auto px-4 pb-32">
