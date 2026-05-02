@@ -13,7 +13,7 @@ const AllProductPage = async ({ searchParams }) => {
     ? products.filter(
         (p) => p.category.toLowerCase() === category.toLowerCase()
       )
-    : products;
+    : products; 
 
   return (
     <div className="container mx-auto px-4">

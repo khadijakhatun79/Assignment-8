@@ -1,6 +1,7 @@
 "use client";
 import { authClient } from "@/lib/auth-client";
 import { Avatar, Button } from "@heroui/react";
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -21,9 +22,17 @@ const Navbar = () => {
       <nav className="flex justify-between items-center py-3 max-w-7xl mx-auto px-4">
 
         {/* Logo */}
-        <h3 className="font-black text-lg">SunCart.</h3>
+         <Image
+            src={"/logo.png"}   
+            alt="logo"
+            loading="eager"
+            width={150}
+            height={90} 
+            className="object-cover h-auto w-auto"
+          />
+        {/*<h3 className="font-black text-lg">SunCart.</h3>*/}
 
-        {/* Desktop Menu */}
+        {/* Desktop Menu */} 
         <ul className="hidden md:flex items-center gap-6 text-sm">
           <li><Link href="/">Home</Link></li>
           <li><Link href="/all-product">All Product</Link></li>

@@ -35,10 +35,10 @@ export default function SignUpPage() {
       router.push("/");
     }
   };
-
+ 
   return (
     <Card className="border mx-auto w-96 py-10 mt-10">
-      <h1 className="text-center text-2xl font-bold">Sign Up</h1>
+      <h1 className="text-center text-2xl font-bold">Register</h1> 
 
       <Form className="flex flex-col gap-4 px-6" onSubmit={onSubmit}>
         <TextField isRequired name="name">
