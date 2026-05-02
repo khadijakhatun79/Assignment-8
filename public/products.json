@@ -6,18 +6,18 @@
     "price": 25,
     "rating": 4.8,
     "stock": 15,
-    "description": "These premium UV protection sunglasses are designed to keep your eyes safe from harmful sun rays during the intense summer heat. Crafted with high-quality lenses and a lightweight durable frame, they provide long-lasting comfort and a stylish look. Perfect for beach days, travel, and everyday outdoor use.",
+    "description": "These premium UV protection sunglasses are designed to protect your eyes from harmful sun rays while enhancing your summer style. Lightweight frame and high-quality lenses ensure long-lasting comfort and durability.",
     "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800",
     "category": "Accessories"
   },
   {
     "id": 2,
-    "name": "Summer Cotton T-Shirt", 
+    "name": "Summer Cotton T-Shirt",
     "brand": "H&M",
     "price": 18,
     "rating": 4.6,
     "stock": 25,
-    "description": "Stay cool with this breathable cotton t-shirt made for summer comfort. Soft fabric, relaxed fit, and minimal design make it perfect for daily wear, travel, and casual outings.",
+    "description": "Stay cool and comfortable with this breathable cotton t-shirt. Perfect for hot weather, casual outings, and everyday use with a modern stylish fit.",
     "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
     "category": "Clothing"
   },
@@ -28,7 +28,7 @@
     "price": 12,
     "rating": 4.9,
     "stock": 30,
-    "description": "Protect your skin with this SPF 50 sunscreen that blocks harmful UVA and UVB rays. Lightweight, non-greasy, and perfect for daily summer protection.",
+    "description": "Advanced SPF 50 sunscreen that protects your skin from UVA and UVB rays. Lightweight formula keeps your skin hydrated without feeling greasy.",
     "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800",
     "category": "Skincare"
   },
@@ -39,7 +39,7 @@
     "price": 20,
     "rating": 4.7,
     "stock": 18,
-    "description": "Stylish and breathable straw hat that protects your face from sunlight. Ideal for beach trips, travel, and outdoor events.",
+    "description": "Stylish straw hat designed to protect you from sunlight while adding elegance to your summer look. Lightweight and breathable.",
     "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800",
     "category": "Accessories"
   },
@@ -50,8 +50,8 @@
     "price": 22,
     "rating": 4.5,
     "stock": 20,
-    "description": "Lightweight and comfortable flip flop sandals designed for summer. Anti-slip sole ensures safety and all-day comfort.",
-    "image": "https://images.unsplash.com/photo-1528701800489-20be3c0c9c77?w=800",
+    "description": "Comfortable and lightweight flip flop sandals perfect for beach days and casual wear. Anti-slip sole ensures safe walking.",
+    "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800",
     "category": "Footwear"
   },
   {
@@ -61,8 +61,8 @@
     "price": 15,
     "rating": 4.6,
     "stock": 40,
-    "description": "Reusable BPA-free water bottle designed to keep you hydrated throughout hot summer days. Leak-proof and travel friendly.",
-    "image": "https://images.unsplash.com/photo-1526401485004-2fa806b1d8b0?w=800",
+    "description": "Reusable BPA-free water bottle that keeps you hydrated during hot summer days. Durable, leak-proof, and easy to carry.",
+    "image": "https://images.unsplash.com/photo-1559839914-17aae19cec71?w=800",
     "category": "Essentials"
   },
   {
@@ -72,7 +72,7 @@
     "price": 35,
     "rating": 4.7,
     "stock": 12,
-    "description": "Spacious and stylish beach bag with water-resistant material. Perfect for carrying all your summer essentials.",
+    "description": "Spacious and stylish beach travel bag with water-resistant material. Perfect for carrying all your summer essentials.",
     "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800",
     "category": "Accessories"
   },
@@ -83,8 +83,8 @@
     "price": 14,
     "rating": 4.8,
     "stock": 22,
-    "description": "Instantly refresh your skin with this cooling face mist. Keeps your skin hydrated and glowing during hot summer days.",
-    "image": "https://images.unsplash.com/photo-1598514982841-2f8a2b2c0c45?w=800",
+    "description": "Refreshing face mist that hydrates and cools your skin instantly. Ideal for hot summer days and daily skincare routine.",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800",
     "category": "Skincare"
   },
   {
@@ -94,8 +94,8 @@
     "price": 28,
     "rating": 4.6,
     "stock": 17,
-    "description": "Comfortable and stylish summer shorts made with breathable fabric. Perfect for outdoor activities and casual wear.",
-    "image": "https://images.unsplash.com/photo-1506629905607-d3e9f7c4c8c5?w=800",
+    "description": "Comfortable and breathable summer shorts designed for casual wear and outdoor activities. Stylish and easy to pair.",
+    "image": "https://images.unsplash.com/photo-1593032465171-8f0c7d6c9b3f?w=800",
     "category": "Clothing"
   },
   {
@@ -105,8 +105,8 @@
     "price": 16,
     "rating": 4.7,
     "stock": 35,
-    "description": "Compact and powerful portable mini fan to keep you cool anywhere. Long battery life and quiet performance.",
-    "image": "https://images.unsplash.com/photo-1590080877777-9cdbcf0d4e5f?w=800",
+    "description": "Compact portable mini fan with powerful airflow and long battery life. Perfect for travel, office, and outdoor use.",
+    "image": "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=800",
     "category": "Electronics"
   }
 ]

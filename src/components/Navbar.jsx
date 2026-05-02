@@ -34,9 +34,9 @@ const Navbar = () => {
 
         {/* Desktop Menu */} 
         <ul className="hidden md:flex items-center gap-6 text-sm">
-          <li><Link href="/">Home</Link></li>
-          <li><Link href="/all-product">All Product</Link></li>
-          <li><Link href="/profile">Profile</Link></li>
+          <li className="text-base"><Link href="/">Home</Link></li>
+          <li className="text-base"><Link href="/all-product">All Product</Link></li>
+          <li className="text-base"><Link href="/profile">Profile</Link></li>
         </ul>
 
         {/* Right Side */}
@@ -44,11 +44,11 @@ const Navbar = () => {
 
           {!user ? (  
             <>
-              <Link href="/signup">
-                <Button size="sm" variant="flat">Sign Up</Button>
+              <Link href="/register">
+                <Button size="sm" variant="flat">Register</Button>
               </Link>
-              <Link href="/signin">
-                <Button size="sm" className="bg-orange-500 text-white">Sign In</Button>
+              <Link href="/login">
+                <Button size="sm" className="bg-orange-500 text-white">Login</Button>
               </Link>
             </>
           ) : (

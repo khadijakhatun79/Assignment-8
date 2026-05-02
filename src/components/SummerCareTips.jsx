@@ -18,8 +18,8 @@ const SummerCareTips = () => {
         <div className="grid md:grid-cols-3 gap-8">
           
           {/* Card 1 */}
-          <div className="bg-white rounded-2xl p-6 shadow-sm hover:shadow-xl transition duration-300 border">
-            <div className="text-3xl mb-3">💧</div>
+          <div className="bg-white rounded-2xl p-6 text-center shadow-sm hover:shadow-xl transition duration-300 border">
+            <div className="text-6xl mb-3">💧</div>
             <h3 className="font-bold text-lg mb-2">Stay Hydrated</h3>
             <p className="text-gray-600 text-sm leading-relaxed">
               Drink enough water throughout the day to maintain energy, avoid dehydration, and keep your skin glowing in extreme heat.
@@ -27,8 +27,8 @@ const SummerCareTips = () => {
           </div>
 
           {/* Card 2 */}
-          <div className="bg-white rounded-2xl p-6 shadow-sm hover:shadow-xl transition duration-300 border">
-            <div className="text-3xl mb-3">🧴</div>
+          <div className="bg-white rounded-2xl p-6 text-center shadow-sm hover:shadow-xl transition duration-300 border">
+            <div className="text-6xl mb-3">🧴</div>
             <h3 className="font-bold text-lg mb-2">Use Sunscreen</h3>
             <p className="text-gray-600 text-sm leading-relaxed">
               Always apply SPF 30+ sunscreen before going outside to protect your skin from harmful UV rays and sun damage.
@@ -36,8 +36,8 @@ const SummerCareTips = () => {
           </div>
 
           {/* Card 3 */}
-          <div className="bg-white rounded-2xl p-6 shadow-sm hover:shadow-xl transition duration-300 border">
-            <div className="text-3xl mb-3">🕶️</div>
+          <div className="bg-white rounded-2xl p-6 text-center shadow-sm hover:shadow-xl transition duration-300 border">
+            <div className="text-6xl mb-3">🕶️</div>
             <h3 className="font-bold text-lg mb-2">Protect Yourself</h3>
             <p className="text-gray-600 text-sm leading-relaxed">
               Use sunglasses, hats, and light cotton clothes to stay cool and avoid direct sunlight exposure.
