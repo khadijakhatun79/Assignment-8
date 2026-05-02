@@ -3,7 +3,7 @@ import { Button, Chip } from "@heroui/react";
 import Link from "next/link";
 const PhotoDetailsPage = async ({params}) => {
     const {id} = await params;
-    const res = await fetch('https://assignment-8-wheat.vercel.app/products.json')
+    const res = await fetch('https://assignment-8-rho-two.vercel.app/products.json')
     const products = await res.json()
 
     const product = products.find(p => p.id == id)

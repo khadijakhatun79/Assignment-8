@@ -1,7 +1,7 @@
 import ProductCard from "./ProductCard";
 
 const Products = async () => {
-  const res = await fetch('http://localhost:3000/products.json', {
+  const res = await fetch('https://assignment-8-rho-two.vercel.app/products.json', {
     cache: "no-store",
   });
 

@@ -4,7 +4,7 @@ import ProductCard from "@/components/ProductCard";
 const AllProductPage = async ({ searchParams }) => {
   const category = searchParams?.category;
 
-  const res = await fetch("http://localhost:3000/products.json", {
+  const res = await fetch("https://assignment-8-rho-two.vercel.app/products.json", {
      cache: "no-store", 
   });
   const products = await res.json();

@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 const Category = async () => {
-  const res = await fetch("http://localhost:3000/category.json",{
+  const res = await fetch("https://assignment-8-rho-two.vercel.app/category.json",{
     cache: "no-store", 
   }); 
   const products = await res.json();
