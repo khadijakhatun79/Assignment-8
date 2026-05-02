@@ -4,7 +4,7 @@ import { mongodbAdapter } from "better-auth/adapters/mongodb";
 
 const client = new MongoClient(process.env.MONGODB_URI);
 
-// 🔥 FIX: connect must be called
+
 await client.connect();
 
 const db = client.db("suncart");
